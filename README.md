@@ -1,1 +1,7 @@
-# padel-frontend
+# 🧑‍⚖️ padel-frontend
+
+## Установка и запуск
+
+```bash
+npm install
+npm run dev
